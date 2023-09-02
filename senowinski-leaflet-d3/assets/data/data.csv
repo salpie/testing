@@ -23,15 +23,15 @@ Royal Sovereign front,51.56270628,-0.063254792,13:00,1
 The Axe beer,51.56267488,-0.07177452,13:00,1
 The Star by Hackney Downs beer,51.55305386,-0.057823233,13:00,1
 The Park Tavern beer,51.56798359,-0.111090415,13:00,1
-The Stags Head beer,-0.080803491,51.53619417,13:00,0.75
-The Duke of Hamilton front,-0.177595517,51.55878208,13:00,1
-The Duke of Hamilton back,-0.177572214,51.55891685,13:00,1
-The Flask beer,-0.150946693,51.56973082,13:00,1
-The Wrestlers front,-0.14995613,51.57483758,13:00,1
-The Wrestlers back,-0.149668735,51.57498652,13:00,0.75
-The Gatehouse beer,-0.150593922,51.57134089,13:00,1
-The Queens beer,-0.121856631,51.58081397,13:00,1
-The Great Northern Railway Tavern beer,-0.116349227,51.58821102,13:00,1
+The Stags Head beer,51.53619417,-0.080803491,13:00,0.75
+The Duke of Hamilton front,51.55878208,-0.177595517,13:00,1
+The Duke of Hamilton back,51.55891685,-0.177572214,13:00,1
+The Flask beer,51.56973082,-0.150946693,13:00,1
+The Wrestlers front,51.57483758,-0.14995613,13:00,1
+The Wrestlers back,51.57498652,-0.149668735,13:00,0.75
+The Gatehouse beer,51.57134089,-0.150593922,13:00,1
+The Queens beer,51.58081397,-0.121856631,13:00,1
+The Great Northern Railway Tavern beer,51.58821102,-0.116349227,13:00,1
 Mccaffertys beer,51.5840578,-0.116635974,13:00,1
 Intrepid Bakers,51.58710929,-0.119765665,13:00,1
 The Goodness Brewing Company beer,51.59298287,-0.114459272,13:00,1
@@ -83,15 +83,15 @@ Royal Sovereign front,51.56270628,-0.063254792,14:00,1
 The Axe beer,51.56267488,-0.07177452,14:00,0.25
 The Star by Hackney Downs beer,51.55305386,-0.057823233,14:00,1
 The Park Tavern beer,51.56798359,-0.111090415,14:00,1
-The Stags Head beer,-0.080803491,51.53619417,14:00,1
-The Duke of Hamilton front,-0.177595517,51.55878208,14:00,1
-The Duke of Hamilton back,-0.177572214,51.55891685,14:00,0.75
-The Flask beer,-0.150946693,51.56973082,14:00,1
-The Wrestlers front,-0.14995613,51.57483758,14:00,1
-The Wrestlers back,-0.149668735,51.57498652,14:00,0.75
-The Gatehouse beer,-0.150593922,51.57134089,14:00,0.75
-The Queens beer,-0.121856631,51.58081397,14:00,0.25
-The Great Northern Railway Tavern beer,-0.116349227,51.58821102,14:00,1
+The Stags Head beer,51.53619417,-0.080803491,14:00,1
+The Duke of Hamilton front,51.55878208,-0.177595517,14:00,1
+The Duke of Hamilton back,51.55891685,-0.177572214,14:00,0.75
+The Flask beer,51.56973082,-0.150946693,14:00,1
+The Wrestlers front,51.57483758,-0.14995613,14:00,1
+The Wrestlers back,51.57498652,-0.149668735,14:00,0.75
+The Gatehouse beer,51.57134089,-0.150593922,14:00,0.75
+The Queens beer,51.58081397,-0.121856631,14:00,0.25
+The Great Northern Railway Tavern beer,51.58821102,-0.116349227,14:00,1
 Mccaffertys beer,51.5840578,-0.116635974,14:00,0.75
 Intrepid Bakers,51.58710929,-0.119765665,14:00,1
 The Goodness Brewing Company beer,51.59298287,-0.114459272,14:00,1
@@ -143,15 +143,15 @@ Royal Sovereign front,51.56270628,-0.063254792,15:00,1
 The Axe beer,51.56267488,-0.07177452,15:00,0.5
 The Star by Hackney Downs beer,51.55305386,-0.057823233,15:00,1
 The Park Tavern beer,51.56798359,-0.111090415,15:00,1
-The Stags Head beer,-0.080803491,51.53619417,15:00,0.25
-The Duke of Hamilton front,-0.177595517,51.55878208,15:00,0.5
-The Duke of Hamilton back,-0.177572214,51.55891685,15:00,0.75
-The Flask beer,-0.150946693,51.56973082,15:00,1
-The Wrestlers front,-0.14995613,51.57483758,15:00,0.5
-The Wrestlers back,-0.149668735,51.57498652,15:00,0.75
-The Gatehouse beer,-0.150593922,51.57134089,15:00,1
-The Queens beer,-0.121856631,51.58081397,15:00,0.25
-The Great Northern Railway Tavern beer,-0.116349227,51.58821102,15:00,1
+The Stags Head beer,51.53619417,-0.080803491,15:00,0.25
+The Duke of Hamilton front,51.55878208,-0.177595517,15:00,0.5
+The Duke of Hamilton back,51.55891685,-0.177572214,15:00,0.75
+The Flask beer,51.56973082,-0.150946693,15:00,1
+The Wrestlers front,51.57483758,-0.14995613,15:00,0.5
+The Wrestlers back,51.57498652,-0.149668735,15:00,0.75
+The Gatehouse beer,51.57134089,-0.150593922,15:00,1
+The Queens beer,51.58081397,-0.121856631,15:00,0.25
+The Great Northern Railway Tavern beer,51.58821102,-0.116349227,15:00,1
 Mccaffertys beer,51.5840578,-0.116635974,15:00,0.75
 Intrepid Bakers,51.58710929,-0.119765665,15:00,1
 The Goodness Brewing Company beer,51.59298287,-0.114459272,15:00,1
@@ -203,15 +203,15 @@ Royal Sovereign front,51.56270628,-0.063254792,16:00,1
 The Axe beer,51.56267488,-0.07177452,16:00,0
 The Star by Hackney Downs beer,51.55305386,-0.057823233,16:00,1
 The Park Tavern beer,51.56798359,-0.111090415,16:00,1
-The Stags Head beer,-0.080803491,51.53619417,16:00,0.25
-The Duke of Hamilton front,-0.177595517,51.55878208,16:00,0.25
-The Duke of Hamilton back,-0.177572214,51.55891685,16:00,0.5
-The Flask beer,-0.150946693,51.56973082,16:00,1
-The Wrestlers front,-0.14995613,51.57483758,16:00,0.5
-The Wrestlers back,-0.149668735,51.57498652,16:00,0.75
-The Gatehouse beer,-0.150593922,51.57134089,16:00,0.75
-The Queens beer,-0.121856631,51.58081397,16:00,0
-The Great Northern Railway Tavern beer,-0.116349227,51.58821102,16:00,0
+The Stags Head beer,51.53619417,-0.080803491,16:00,0.25
+The Duke of Hamilton front,51.55878208,-0.177595517,16:00,0.25
+The Duke of Hamilton back,51.55891685,-0.177572214,16:00,0.5
+The Flask beer,51.56973082,-0.150946693,16:00,1
+The Wrestlers front,51.57483758,-0.14995613,16:00,0.5
+The Wrestlers back,51.57498652,-0.149668735,16:00,0.75
+The Gatehouse beer,51.57134089,-0.150593922,16:00,0.75
+The Queens beer,51.58081397,-0.121856631,16:00,0
+The Great Northern Railway Tavern beer,51.58821102,-0.116349227,16:00,0
 Mccaffertys beer,51.5840578,-0.116635974,16:00,0.5
 Intrepid Bakers,51.58710929,-0.119765665,16:00,0.75
 The Goodness Brewing Company beer,51.59298287,-0.114459272,16:00,1
@@ -263,15 +263,15 @@ Royal Sovereign front,51.56270628,-0.063254792,17:00,0.75
 The Axe beer,51.56267488,-0.07177452,17:00,0
 The Star by Hackney Downs beer,51.55305386,-0.057823233,17:00,1
 The Park Tavern beer,51.56798359,-0.111090415,17:00,1
-The Stags Head beer,-0.080803491,51.53619417,17:00,0.25
-The Duke of Hamilton front,-0.177595517,51.55878208,17:00,0
-The Duke of Hamilton back,-0.177572214,51.55891685,17:00,0
-The Flask beer,-0.150946693,51.56973082,17:00,0.75
-The Wrestlers front,-0.14995613,51.57483758,17:00,0.5
-The Wrestlers back,-0.149668735,51.57498652,17:00,0.75
-The Gatehouse beer,-0.150593922,51.57134089,17:00,0.25
-The Queens beer,-0.121856631,51.58081397,17:00,0
-The Great Northern Railway Tavern beer,-0.116349227,51.58821102,17:00,0
+The Stags Head beer,51.53619417,-0.080803491,17:00,0.25
+The Duke of Hamilton front,51.55878208,-0.177595517,17:00,0
+The Duke of Hamilton back,51.55891685,-0.177572214,17:00,0
+The Flask beer,51.56973082,-0.150946693,17:00,0.75
+The Wrestlers front,51.57483758,-0.14995613,17:00,0.5
+The Wrestlers back,51.57498652,-0.149668735,17:00,0.75
+The Gatehouse beer,51.57134089,-0.150593922,17:00,0.25
+The Queens beer,51.58081397,-0.121856631,17:00,0
+The Great Northern Railway Tavern beer,51.58821102,-0.116349227,17:00,0
 Mccaffertys beer,51.5840578,-0.116635974,17:00,0
 Intrepid Bakers,51.58710929,-0.119765665,17:00,0.75
 The Goodness Brewing Company beer,51.59298287,-0.114459272,17:00,1
@@ -323,15 +323,15 @@ Royal Sovereign front,51.56270628,-0.063254792,18:00,0.75
 The Axe beer,51.56267488,-0.07177452,18:00,0
 The Star by Hackney Downs beer,51.55305386,-0.057823233,18:00,1
 The Park Tavern beer,51.56798359,-0.111090415,18:00,0
-The Stags Head beer,-0.080803491,51.53619417,18:00,0
-The Duke of Hamilton front,-0.177595517,51.55878208,18:00,0
-The Duke of Hamilton back,-0.177572214,51.55891685,18:00,0
-The Flask beer,-0.150946693,51.56973082,18:00,0.75
-The Wrestlers front,-0.14995613,51.57483758,18:00,0.5
-The Wrestlers back,-0.149668735,51.57498652,18:00,0.75
-The Gatehouse beer,-0.150593922,51.57134089,18:00,0.5
-The Queens beer,-0.121856631,51.58081397,18:00,0
-The Great Northern Railway Tavern beer,-0.116349227,51.58821102,18:00,0
+The Stags Head beer,51.53619417,-0.080803491,18:00,0
+The Duke of Hamilton front,51.55878208,-0.177595517,18:00,0
+The Duke of Hamilton back,51.55891685,-0.177572214,18:00,0
+The Flask beer,51.56973082,-0.150946693,18:00,0.75
+The Wrestlers front,51.57483758,-0.14995613,18:00,0.5
+The Wrestlers back,51.57498652,-0.149668735,18:00,0.75
+The Gatehouse beer,51.57134089,-0.150593922,18:00,0.5
+The Queens beer,51.58081397,-0.121856631,18:00,0
+The Great Northern Railway Tavern beer,51.58821102,-0.116349227,18:00,0
 Mccaffertys beer,51.5840578,-0.116635974,18:00,0
 Intrepid Bakers,51.58710929,-0.119765665,18:00,0.5
 The Goodness Brewing Company beer,51.59298287,-0.114459272,18:00,1
@@ -383,15 +383,15 @@ Royal Sovereign front,51.56270628,-0.063254792,19:00,0.25
 The Axe beer,51.56267488,-0.07177452,19:00,0
 The Star by Hackney Downs beer,51.55305386,-0.057823233,19:00,0.75
 The Park Tavern beer,51.56798359,-0.111090415,19:00,0
-The Stags Head beer,-0.080803491,51.53619417,19:00,0
-The Duke of Hamilton front,-0.177595517,51.55878208,19:00,0
-The Duke of Hamilton back,-0.177572214,51.55891685,19:00,0
-The Flask beer,-0.150946693,51.56973082,19:00,0.75
-The Wrestlers front,-0.14995613,51.57483758,19:00,0
-The Wrestlers back,-0.149668735,51.57498652,19:00,0.75
-The Gatehouse beer,-0.150593922,51.57134089,19:00,1
-The Queens beer,-0.121856631,51.58081397,19:00,0
-The Great Northern Railway Tavern beer,-0.116349227,51.58821102,19:00,0
+The Stags Head beer,51.53619417,-0.080803491,19:00,0
+The Duke of Hamilton front,51.55878208,-0.177595517,19:00,0
+The Duke of Hamilton back,51.55891685,-0.177572214,19:00,0
+The Flask beer,51.56973082,-0.150946693,19:00,0.75
+The Wrestlers front,51.57483758,-0.14995613,19:00,0
+The Wrestlers back,51.57498652,-0.149668735,19:00,0.75
+The Gatehouse beer,51.57134089,-0.150593922,19:00,1
+The Queens beer,51.58081397,-0.121856631,19:00,0
+The Great Northern Railway Tavern beer,51.58821102,-0.116349227,19:00,0
 Mccaffertys beer,51.5840578,-0.116635974,19:00,0
 Intrepid Bakers,51.58710929,-0.119765665,19:00,0
 The Goodness Brewing Company beer,51.59298287,-0.114459272,19:00,0.5
@@ -443,15 +443,15 @@ Royal Sovereign front,51.56270628,-0.063254792,20:00,0
 The Axe beer,51.56267488,-0.07177452,20:00,0
 The Star by Hackney Downs beer,51.55305386,-0.057823233,20:00,0
 The Park Tavern beer,51.56798359,-0.111090415,20:00,0
-The Stags Head beer,-0.080803491,51.53619417,20:00,0
-The Duke of Hamilton front,-0.177595517,51.55878208,20:00,0
-The Duke of Hamilton back,-0.177572214,51.55891685,20:00,0
-The Flask beer,-0.150946693,51.56973082,20:00,0.5
-The Wrestlers front,-0.14995613,51.57483758,20:00,0
-The Wrestlers back,-0.149668735,51.57498652,20:00,0
-The Gatehouse beer,-0.150593922,51.57134089,20:00,0
-The Queens beer,-0.121856631,51.58081397,20:00,0
-The Great Northern Railway Tavern beer,-0.116349227,51.58821102,20:00,0
+The Stags Head beer,51.53619417,-0.080803491,20:00,0
+The Duke of Hamilton front,51.55878208,-0.177595517,20:00,0
+The Duke of Hamilton back,51.55891685,-0.177572214,20:00,0
+The Flask beer,51.56973082,-0.150946693,20:00,0.5
+The Wrestlers front,51.57483758,-0.14995613,20:00,0
+The Wrestlers back,51.57498652,-0.149668735,20:00,0
+The Gatehouse beer,51.57134089,-0.150593922,20:00,0
+The Queens beer,51.58081397,-0.121856631,20:00,0
+The Great Northern Railway Tavern beer,51.58821102,-0.116349227,20:00,0
 Mccaffertys beer,51.5840578,-0.116635974,20:00,0
 Intrepid Bakers,51.58710929,-0.119765665,20:00,0
 The Goodness Brewing Company beer,51.59298287,-0.114459272,20:00,0
